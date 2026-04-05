@@ -1,6 +1,4 @@
-# Syntecxhub_Artificial_Intelligence
-
-## Maze Solver using A Star Search
+# Maze Solver using A Star Search
 
 This project implements the A Star search algorithm to find the shortest path
 in a maze from a start point to a goal point.
